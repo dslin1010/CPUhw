@@ -1,0 +1,204 @@
+D:/P76051284hw4/SRC/mux_32bit.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/mux_32bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_32bit
+
+Top level modules:
+	mux_32bit
+
+} {} {}} D:/P76051284hw4/SRC/IM.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/IM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} D:/P76051284hw4/SRC/Regfile.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Regfile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Regfile
+
+Top level modules:
+	Regfile
+
+} {} {}} D:/P76051284hw4/SRC/Jmux_32bit.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Jmux_32bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Jmux_32bit
+
+Top level modules:
+	Jmux_32bit
+
+} {} {}} D:/P76051284hw4/SRC/Cache_tag.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Cache_tag.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_tag
+
+Top level modules:
+	Cache_tag
+
+} {} {}} D:/P76051284hw4/SRC/testfixture1.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/testfixture1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture1
+
+Top level modules:
+	testfixture1
+
+} {} {}} D:/P76051284hw4/SRC/adder.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} D:/P76051284hw4/SRC/DM.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/DM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} D:/P76051284hw4/SRC/core.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/core.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module core
+
+Top level modules:
+	core
+
+} {} {}} D:/P76051284hw4/SRC/ForwardBmux.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/ForwardBmux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ForwardB
+
+Top level modules:
+	ForwardB
+
+} {} {}} D:/P76051284hw4/SRC/ALU_Control.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/ALU_Control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} D:/P76051284hw4/SRC/PC.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/P76051284hw4/SRC/top.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/P76051284hw4/SRC/Cache.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Cache.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} D:/P76051284hw4/SRC/Controller.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Controller.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} D:/P76051284hw4/SRC/Cache_data.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Cache_data.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_data
+
+Top level modules:
+	Cache_data
+
+} {} {}} D:/P76051284hw4/SRC/mux_5bit.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/mux_5bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_5bit
+
+Top level modules:
+	mux_5bit
+
+} {} {}} D:/P76051284hw4/SRC/M_WB.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/M_WB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module M_WB
+
+Top level modules:
+	M_WB
+
+} {} {}} D:/P76051284hw4/SRC/singn_Extend.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/singn_Extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_Extend32
+
+Top level modules:
+	sign_Extend32
+
+} {} {}} D:/P76051284hw4/SRC/Jump_Ctrl.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Jump_Ctrl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Jump_Ctrl
+
+Top level modules:
+	Jump_Ctrl
+
+} {} {}} D:/P76051284hw4/SRC/ForwardAmux.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/ForwardAmux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ForwardA
+
+Top level modules:
+	ForwardA
+
+} {} {}} D:/P76051284hw4/SRC/ID_EX.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/ID_EX.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} D:/P76051284hw4/SRC/HDU.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/HDU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HDU
+
+Top level modules:
+	HDU
+
+} {} {}} D:/P76051284hw4/SRC/EX_M.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/EX_M.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_M
+
+Top level modules:
+	EX_M
+
+} {} {}} D:/P76051284hw4/SRC/ALU.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/P76051284hw4/SRC/IF_ID.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/IF_ID.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} D:/P76051284hw4/SRC/FU.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/FU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FU
+
+Top level modules:
+	FU
+
+} {} {}} D:/P76051284hw4/SRC/Cache_valid.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Cache_valid.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_valid
+
+Top level modules:
+	Cache_valid
+
+} {} {}} D:/P76051284hw4/SRC/Cache_Control.v {1 {vlog -work work -stats=none D:/P76051284hw4/SRC/Cache_Control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Cache_Control
+
+Top level modules:
+	Cache_Control
+
+} {} {}}
